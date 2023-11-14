@@ -1,4 +1,4 @@
-#entertainment_app_marketing_campaigns_analysis
+# entertainment_app_marketing_campaigns_analysis
 
 Исследование на данных с 1 мая по 27 октября 2019 года по пользователям приложения Procrastinate Pro+: лог сервера с данными об их посещениях, выгрузка их покупок за этот период и рекламные расходы.
 
